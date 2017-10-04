@@ -1,0 +1,175 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+body {
+	background-image: url(grfx/bg.png);
+	background-repeat: repeat-x;
+
+}
+
+div.top{
+	background-image: url(grfx/header.jpg);
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	height: 269px;
+	width: 800px;
+
+}
+
+li{
+    display: inline;
+
+
+}
+
+h1.vloot{
+	font-size: 200%;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+p.reg{
+	margin: 10px;
+	
+}
+
+h2{
+	font-size: 150%;
+	height: 40px;
+}
+
+div.content{
+	height: 500px;
+	width: 780px;
+	background-color: white;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: left;
+	clear: left;
+}
+
+section.section{
+	padding-left: 10px;
+}
+
+img.top-left{
+	float: left;
+  	padding: 0 0 10px 10px;
+	padding-right: 10px;
+}
+
+ul.top-menu{
+	padding-top: 130px;
+	margin: 10px;
+	color: white;
+	word-spacing: 10px;
+
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: MediumSeaGreen;
+}
+
+div.contentges{
+	height: 500px;
+	width: 780px;
+	background-color: white;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: left;
+	clear: left;
+}
+
+img.middle{
+	float: right;
+	padding: 10px;
+}
+
+img.bottom{
+	float: left;
+	padding: 15px;
+}
+
+div.contentkruis{
+	height: 500px;
+	width: 780px;
+	background-color: white;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: left;
+	clear: left;
+}
+
+img.vloot4{
+	float: left;
+	padding: 15px 15px 25px 15px;
+
+}
+
+img.vloot11{
+	float: left;
+	padding: 15px 15px 25px 15px;
+}
+
+img.vloot12{
+	float: right;
+	padding: 15px;
+}
+
+div.contentvlieg{
+	height: 500px;
+	width: 780px;
+	background-color: white;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: left;
+	clear: left;
+}
+
+img.vloot5{
+	float: right;
+	padding: 15px;
+}
+
+img.vloot6{
+	float: left;
+	padding: 15px;
+
+}
+
+img.vloot7{
+	float: left;
+	padding: 15px 10px 15px 15px;
+}
+
+div.contentonder{
+	height: 500px;
+	width: 780px;
+	background-color: white;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: left;
+	clear: left;
+}
+
+img.vloot10{
+	float: left;
+	padding: 15px;
+}
+
+img.vloot8{
+	float: right;
+	padding: 15px;
+}
+
+img.vloot9{
+	float: left;
+	padding: 15px;
+}
